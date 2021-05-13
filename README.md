@@ -1,4 +1,4 @@
-# Movie_Recommendation_Engine
+# Movie Recommendation Engine using Netflix Dataset
 
 In this modern world we are overloaded with data and this data provides us the useful information. But it is not possible for the user to extract the information which interest them from these data. To help the user to find out information about the product, recommendation systems were developed.</br>
 Recommender system creates a similarity between the user and items and exploits the similarity between user/item to make recommendations.</br>
